@@ -3,7 +3,7 @@
 *This is a very basic python code for Jarvis. This code may be updated soon*<br/>
 **This file requires _Python 3.7_**<br/>
 <br/>
-Steps to get this code running :<br/>
+##Steps to get this code running :<br/>
 1) Open cmd and then type ```pip install PyAudio-0.2.11-cp37-cp37m-win_amd64.whl```<br/>
 2) Then direct to the location where file is downloaded<br/>
 3) On search bar type `cmd` and hit Enter<br/>
