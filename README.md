@@ -1,5 +1,5 @@
-# JARVIS
-\n
-**This file requires Python 3.7**
-#Steps to get this code running :
-1)
+# JARVIS<br/>
+**This file requires Python 3.7**<br/>
+<br/>
+Steps to get this code running :<br/>
+1) Open cmd and then type '''pip install 
