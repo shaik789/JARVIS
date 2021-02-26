@@ -1,7 +1,7 @@
 # JARVIS<br/>
 <br/>
 <i>This is a very basic python code for Jarvis. This code may be updated soon<i><br/>
-<b>This file requires Python 3.7<b><br/>
+  <strong>This file requires <em>Python 3.7</em><strong><br/>
 <br/>
 <h4>Steps to get this code running :<h4><br/>
   <ol>
@@ -14,4 +14,4 @@
     <li>Now your assistant is ready to be used.... Enjoy !</li>
   </ol>
 <br/>
-<i>If anyone wants edit this code or add new features, You are more than welcome to do so. Just let mw know after you update anything. I will surely appreciate your efforts.<i>
+<i>If anyone wants edit this code or add new features, You are more than welcome to do so. Just let me know after you update anything. I will surely appreciate your efforts.<i>
