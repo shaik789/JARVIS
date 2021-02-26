@@ -1,7 +1,7 @@
 # JARVIS<br/>
 <br/>
-<i>This is a very basic python code for Jarvis. This code may be updated soon<i><br/>
-  <strong>This file requires <em>Python 3.7</em><strong><br/>
+<b>This is a very basic python code for Jarvis. This code may be updated soon<b><br/>
+  <b>This file requires <em>Python 3.7<b><br/>
 <br/>
 <h4>Steps to get this code running :<h4><br/>
   <ol>
